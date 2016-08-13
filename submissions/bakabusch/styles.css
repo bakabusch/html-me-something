@@ -1,0 +1,32 @@
+h1 {
+    font-family: Arial;
+    margin-left:100px;
+    color: #778899;
+}
+body{
+    background-color: #f8f8ff;
+}
+h2{
+    font-family: Arial;
+    margin-left: 100px;
+    color: #778899;
+}
+ul {
+    margin-left: 200px;
+}
+#yield{
+    font-family: sans-serif;
+    font-weight:bold;
+    font-size: 12px;
+}
+#pommo{
+    height:200px;
+    width: 500px;
+    border: 1px solid #313030;
+    margin-left:100px;
+}
+.line-separator{
+    height:1px;
+background:#717171;
+border-bottom:1px solid #313030;
+}
